@@ -23,7 +23,7 @@ We're using GitHub Discussions to connect with members of our developer communit
     * [Plaid's Quickstart](https://github.com/plaid/quickstart)
     * [Plaid's Tiny Quickstart](https://github.com/plaid/tiny-quickstart) – A minimal quickstart in JavaScript and React.
     * [Plaid Postman Collection](https://github.com/plaid/plaid-postman) – Don't want to write code? Check out Postman collection.
-    * [Plaid Pattern](https://github.com/plaid/pattern) – A sample end-to-end integration of Plaid.
+    * [Plaid Pattern](https://github.com/plaid/pattern) – A sample end-to-end integration of Plaid illustrating Transactions, Investments, and Liabilities.
     * [Plaid Pattern (Account Funding)](https://github.com/plaid/pattern-account-funding) – A sample app implementing account funding.
     * [Plaid Account Funding Tutorial](https://github.com/plaid/account-funding-tutorial) – A tutorial demonstrating how to add account funding to an app.
     * [Plaid Academy](https://www.youtube.com/c/PlaidInc/videos) – Our collection of educational Plaid videos. Be sure to hit that subscribe button :) 
