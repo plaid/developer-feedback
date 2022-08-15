@@ -1,4 +1,4 @@
-# Note: This repo has been paused as we re-evaluate our community presence. The current Plaid developer community is invite-only. To receive an invite, PM @plaiddev on Twitter.
+## Note: This repo has been paused as we re-evaluate our community strategy. The current Plaid developer community is invite-only. To receive an invite, PM @plaiddev on Twitter.
 
 ## 👋 Welcome to Plaid's developer-feedback repo!
 
